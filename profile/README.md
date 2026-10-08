@@ -1,3 +1,3 @@
 # Welcome to the Backend + AI Class! 
 
-This page is where all of the repos for the AnnieCannons Backend + AI Curriculum live. 
+Here is where all of the class repos for projects, activities & assignments live. 
